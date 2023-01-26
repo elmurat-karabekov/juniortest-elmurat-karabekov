@@ -9,6 +9,7 @@ To recreate this project in your own host make following necessary changes:
   3. Export "\sql\scandiweb.sql" to you MySql Database in phpmyadmin
   
 This project can be accessed using following URLs:
+
   https://juniortest-elmurat-karabekov.000webhostapp.com/ - for Product List page
   https://juniortest-elmurat-karabekov.000webhostapp.com/add-product - for Product Add page
   
